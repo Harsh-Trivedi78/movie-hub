@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-hub/static/css/main.fd622c32.css",
+    "main.js": "/movie-hub/static/js/main.a2a1e906.js",
+    "index.html": "/movie-hub/index.html",
+    "static/media/search.svg": "/movie-hub/static/media/search.a3ba930654a947c8222c1cab6ea1b34c.svg",
+    "main.fd622c32.css.map": "/movie-hub/static/css/main.fd622c32.css.map",
+    "main.a2a1e906.js.map": "/movie-hub/static/js/main.a2a1e906.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd622c32.css",
+    "static/js/main.a2a1e906.js"
+  ]
+}
